@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_catalogo"
+        android:icon="@drawable/menu_catalogo"
+        android:title="Catálogo" />
+    <item
+        android:id="@+id/action_huertas"
+        android:icon="@drawable/menu_huertas"
+        android:title="Huertos" />
+    <item
+        android:id="@+id/action_compras"
+        android:icon="@drawable/menu_compras"
+        android:title="Compras"
+        app:actionLayout="@layout/menu_counter"/>
+
+    <item
+        android:id="@+id/action_ofertas"
+        android:icon="@drawable/ic_offerts_two"
+        android:title="Ofertas" />
+
+</menu>

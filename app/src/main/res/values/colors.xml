@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00c853</color>
+    <color name="colorPrimaryDark">#009624</color>
+    <color name="colorAccent">#5efc82</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="iconsLight">#808080</color>
+    <color name="colorBlack">#000000</color>
+    <color name="dividerLight">#cccccc</color>
+    <color name="colorOrange">#FF9800</color>
+    <color name="colorGreen">#00c853</color>
+    <color name="colorRed">#f00400</color>
+
+
+</resources>
